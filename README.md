@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegotonetti99
 - 👀 I’m interested in robotics and programming 
-- 🏫 I’m currently studyng Industrial Automation engineering at Università degli studi di Brescia
+- 🏫 I’m currently studying Industrial Automation engineering at Università degli studi di Brescia
 - 📫 How to reach me: diegotonetti1999@gmail.com
 
 <!---
